@@ -1,5 +1,5 @@
 {
-  "name": "qps-web",
+  "name": "prs-web",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -49,6 +49,6 @@
     "vue-tsc": "^2.2.2"
   },
   "main": "index.js",
-  "author": "qps",
+  "author": "prs",
   "license": "MIT"
 }

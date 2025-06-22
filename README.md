@@ -1,5 +1,5 @@
 
-# qps-web
+# prs-web
 
 ## Project Setup
 
